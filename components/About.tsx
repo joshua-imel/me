@@ -1,3 +1,5 @@
+"use client"
+
 import { Award, Users, TrendingUp } from "lucide-react"
 
 export default function About() {
@@ -67,7 +69,6 @@ export default function About() {
                   e.currentTarget.src = "/placeholder.svg?height=400&width=400&text=Professional+Headshot"
                 }}
               />
-              
             </div>
           </div>
         </div>
