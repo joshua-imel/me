@@ -8,14 +8,14 @@ import Navigation from "@/components/Navigation"
 import Footer from "@/components/Footer"
 
 export const metadata: Metadata = {
-  title: "Joshua Imel - Product Management Consultant | Startup Product Strategy",
+  title: "Eliza Labs - Product Management Consultant | Startup Product Strategy",
   description:
     "Helping startups launch world-class products. Expert product management consultant specializing in product strategy, design, and MVP development for early-stage companies.",
   keywords:
     "product management consultant, startup consultant, product strategy, MVP development, product design, UI/UX design",
   authors: [{ name: "Joshua Imel" }],
   openGraph: {
-    title: "Joshua Imel - Product Management Consultant",
+    title: "Eliza Labs - Product Management Consultant",
     description: "Helping startups launch world-class products through expert product management consulting.",
     type: "website",
     locale: "en_US",
@@ -39,7 +39,7 @@ export default function Home() {
     jobTitle: "Product Management Consultant",
     description: "Product management consultant helping startups launch world-class products",
     url: "https://elizalabs.com",
-    sameAs: ["https://www.linkedin.com/in/jimel", "https://x.com/joshuaimel"],
+    sameAs: ["https://linkedin.com/in/jimel", "https://x.com/joshuaimel"],
     knowsAbout: [
       "Product Strategy",
       "Product Design",
