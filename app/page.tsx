@@ -8,21 +8,21 @@ import Navigation from "@/components/Navigation"
 import Footer from "@/components/Footer"
 
 export const metadata: Metadata = {
-  title: "Sarah Johnson - Product Management Consultant | Startup Product Strategy",
+  title: "Joshua Imel - Product Management Consultant | Startup Product Strategy",
   description:
     "Helping startups launch world-class products. Expert product management consultant specializing in product strategy, design, and MVP development for early-stage companies.",
   keywords:
     "product management consultant, startup consultant, product strategy, MVP development, product design, UI/UX design",
-  authors: [{ name: "Sarah Johnson" }],
+  authors: [{ name: "Joshua Imel" }],
   openGraph: {
-    title: "Sarah Johnson - Product Management Consultant",
+    title: "Joshua Imel - Product Management Consultant",
     description: "Helping startups launch world-class products through expert product management consulting.",
     type: "website",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sarah Johnson - Product Management Consultant",
+    title: "Joshua Imel - Product Management Consultant",
     description: "Helping startups launch world-class products through expert product management consulting.",
   },
   robots: {
@@ -35,11 +35,11 @@ export default function Home() {
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "Person",
-    name: "Sarah Johnson",
+    name: "Joshua Imel",
     jobTitle: "Product Management Consultant",
     description: "Product management consultant helping startups launch world-class products",
-    url: "https://sarahjohnson-pm.com",
-    sameAs: ["https://linkedin.com/in/sarahjohnson-pm", "https://twitter.com/sarahjohnson_pm"],
+    url: "https://elizalabs.com",
+    sameAs: ["https://www.linkedin.com/in/jimel", "https://x.com/joshuaimel"],
     knowsAbout: [
       "Product Strategy",
       "Product Design",
