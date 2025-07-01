@@ -44,9 +44,7 @@ export default function CaseStudies() {
                   alt={study.title}
                   className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-200"
                 />
-                <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-sm rounded-full p-2">
-                  <ExternalLink size={16} className="text-midnight-blue" />
-                </div>
+                
               </div>
 
               <div className="p-6">
